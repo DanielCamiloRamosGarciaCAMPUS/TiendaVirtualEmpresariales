@@ -1,0 +1,737 @@
+{
+    "productos": [
+      {
+        "id": 1,
+        "nombre": "Nike Air Jordan 1 Hombre",
+        "descripcion": "Inspirado en el AJ1 original, el Air Jordan 1 Mid ofrece a los fanáticos la oportunidad de seguir los pasos de MJ. El color flamante bordea los materiales clásicos e impecables y aporta un toque de modernidad a un diseño clásico.",
+        "precio": 3350000,
+        "genero": "hombre",
+        "color1": "rojo",
+        "color2": "negro",
+        "imagenes": [
+          {
+            "url": "https://letkicks.com/cdn/shop/products/StockXAndre3_88.png?v=1677087684",
+            "descripcion": "Vista frontal"
+          },
+          {
+            "url": "https://letkicks.com/cdn/shop/products/StockXAndre3_87.png?v=1677087684",
+            "descripcion": "Vista suela"
+          },
+          {
+            "url": "https://letkicks.com/cdn/shop/products/StockXAndre3_89.png?v=1677087684",
+            "descripcion": "Vista lateral"
+          },
+          {
+            "url": "https://letkicks.com/cdn/shop/products/StockXAndre3_90.png?v=1677087684",
+            "descripcion": "Vista posterior"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "nombre": "Nike Dunk Low Retro Hombre",
+        "descripcion": "El Dunk Low fue creado para la cancha, pero luego conquistó las calles. Ahora regresa con un mensaje y colores sutilmente festivos. Canaliza el estilo de los años 80 con cuero premium que se suaviza y adquiere carácter vintage con el uso, y la amortiguación moderna aporta la comodidad del siglo XXI.",
+        "precio": 700000,
+        "genero": "hombre",
+        "color1": "verde",
+        "color2": "beige",
+        "imagenes": [
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3d0a5351-7dad-473d-9b4a-1763d03fb0d1/calzado-dunk-low-retro-J80m7m.png",
+            "descripcion": "Vista frontal"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/50f8b47c-d0d7-4f97-a993-d7e4ab47305d/calzado-dunk-low-retro-J80m7m.png",
+            "descripcion": "Vista suela"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a2b8c1fa-f22c-44a9-8aac-6351e9e9d59b/calzado-dunk-low-retro-J80m7m.png",
+            "descripcion": "Vista lateral"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/04f1f400-da55-4400-85f9-84d39c20e358/calzado-dunk-low-retro-J80m7m.png",
+            "descripcion": "Vista posterior"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "nombre": "Nike Court Vision Next Nature Mujer",
+        "descripcion": "¿Adoras el look clásico del básquetbol de los años 80, pero también te apasiona la cultura acelerada de los partidos actuales? Te presentamos el Nike Court Vision Low Next Nature. Confeccionado con al menos un 20% de materiales reciclados por peso, su parte superior impecable y revestimientos cosidos están inspirados en los años de tiros de gancho y calcetines tubo. El cuello acolchado y la suela de goma le brindan comodidad y tracción a tu mundo.",
+        "precio": 350000,
+        "genero": "mujer",
+        "color1": "blanco",
+        "color2": "rosa",
+        "imagenes": [
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f7c941ab-7e44-4819-9483-adb9cd082787/calzado-court-vision-low-next-nature-ZkMMBG.png",
+            "descripcion": "Vista frontal"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/24579a86-1e10-4ec6-970b-4645da0d13a6/calzado-court-vision-low-next-nature-ZkMMBG.png",
+            "descripcion": "Vista suela"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f22e12cb-a84f-40af-a864-3c20fa958899/calzado-court-vision-low-next-nature-ZkMMBG.png",
+            "descripcion": "Vista lateral"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f22e12cb-a84f-40af-a864-3c20fa958899/calzado-court-vision-low-next-nature-ZkMMBG.png",
+            "descripcion": "Vista posterior"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "nombre": "Nike Pegasus 40 Mujer",
+        "descripcion": "¿Adoras el look clásico del básquetbol de los años 80, pero también te apasiona la cultura acelerada de los partidos actuales? Te presentamos el Nike Court Vision Low Next Nature. Confeccionado con al menos un 20% de materiales reciclados por peso, su parte superior impecable y revestimientos cosidos están inspirados en los años de tiros de gancho y calcetines tubo. El cuello acolchado y la suela de goma le brindan comodidad y tracción a tu mundo.",
+        "precio": 500000,
+        "genero": "mujer",
+        "color1": "blanco",
+        "color2": "rosa",
+        "imagenes": [
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/9afbd202-bbad-4a48-8010-d14fc4bd60df/calzado-de-running-en-carretera-pegasus-40-L80k6C.png",
+            "descripcion": "Vista frontal"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/8c057a1d-bbff-490e-a3bb-faed5fef87fd/calzado-de-running-en-carretera-pegasus-40-L80k6C.png",
+            "descripcion": "Vista suela"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/4815cf8d-9dcb-484d-b23a-d18ea106df0d/calzado-de-running-en-carretera-pegasus-40-L80k6C.png",
+            "descripcion": "Vista lateral"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/5391ca44-9ef0-4cde-9805-4030a932a1d9/calzado-de-running-en-carretera-pegasus-40-L80k6C.png",
+            "descripcion": "Vista posterior"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "nombre": "Nike Go FlyEase Hombre",
+        "descripcion": "Olvídate de los cordones y sal a la calle. Estas zapatillas cuentan con la revolucionaria tecnología FlyEase de Nike para que puedas ponértelas y quitártelas fácilmente. Con un talón que se abre para que puedas calzarte y descalzarte sin manos, son perfectas para personas con movilidad reducida o que quieran ponerse rápidamente en marcha.",
+        "precio": 820000,
+        "genero": "hombre",
+        "color1": "blanco",
+        "color2": "negro",
+        "imagenes": [
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/373480ea-8ddd-4cf2-bbd2-5a4ea445ecff/go-flyease-zapatillas-faciles-de-poner-y-quitar-n8CfzV.png",
+            "descripcion": "Vista frontal"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c24b9c0e-fb78-47c8-a699-de65f313a6ac/go-flyease-zapatillas-faciles-de-poner-y-quitar-n8CfzV.png",
+            "descripcion": "Vista suela"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c78d9bc1-bda5-405b-a49c-95e17a3258f7/go-flyease-zapatillas-faciles-de-poner-y-quitar-n8CfzV.png",
+            "descripcion": "Vista lateral"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a6ce2e37-a33b-4df1-9720-b10647b02c8b/go-flyease-zapatillas-faciles-de-poner-y-quitar-n8CfzV.png",
+            "descripcion": "Vista posterior"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "nombre": "LeBron XXI Freshwater Hombre",
+        "descripcion": "La última vez, LeBron cambió la narrativa de su juego de calzado como solo el rey puede hacerlo. Esta versión es aún mejor. El LeBron XXI tiene un sistema de cableado que funciona con amortiguación Zoom Air y un diseño ligero y cercano al suelo, lo que te brinda fluidez y explosividad ágiles sin exceso de peso. Creado para tu ascenso y para la siguiente generación de jugadores de básquetbol, es ideal para ataques a cancha abierta tipo Bron, así como para elevarse hacia la canasta cuando aumenta el ritmo del juego. Obtuvimos este diseño especial a partir de la perla de agua dulce, con su alcance arcoíris de colores pastel naturales, incluido el exuberante color lavanda.",
+        "precio": 800000,
+        "genero": "hombre",
+        "color1": "moradas",
+        "color2": "amarrillo",
+        "imagenes": [
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6d690e79-feb5-4ab7-9e9f-210390b031df/calzado-de-b%C3%A1squetbol-lebron-21-freshwater-lnQSsH.png",
+            "descripcion": "Vista frontal"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/cf4af237-c3db-4cab-8af8-28180a850cb4/calzado-air-jordan-13-wheat-zp4pp0.png",
+            "descripcion": "Vista suela"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2f3370c4-4de3-451c-9a96-434911190df2/calzado-de-b%C3%A1squetbol-lebron-21-freshwater-lnQSsH.png",
+            "descripcion": "Vista lateral"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/764cc895-8260-4765-aa96-ed2409fdcebb/calzado-de-b%C3%A1squetbol-lebron-21-freshwater-lnQSsH.png",
+            "descripcion": "Vista posterior"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "nombre": "Nike Structure 25 Mujer",
+        "descripcion": "Con estabilidad donde la necesitas y amortiguación donde la quieres, el Structure 25 te apoya en los recorridos largos, las carreras cortas de entrenamiento e incluso con unas sentadillas antes de que acabe el día. Es la estabilidad que buscas, leal desde el primer momento, probado y confiable, con un sistema de soporte completo en el mediopié y una amortiguación más cómoda que antes.",
+        "precio": 540000,
+        "genero": "mujer",
+        "color1": "blanco",
+        "color2": "morado",
+        "imagenes": [
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/a1ca85dd-0e41-4dd2-b14b-4d543cfdf5bb/calzado-de-running-en-carretera-structure-25-Zh2tPh.png",
+            "descripcion": "Vista frontal"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/ca2cf6ec-8ca0-4f8a-aad4-5917acea0cbe/calzado-de-running-en-carretera-structure-25-Zh2tPh.png",
+            "descripcion": "Vista suela"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/7c37eb4b-f93c-48bc-9bc7-8998cea347c3/calzado-de-running-en-carretera-structure-25-Zh2tPh.png",
+            "descripcion": "Vista lateral"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/fd7fcaa8-db11-4b43-bcfb-229bf5cb38e8/calzado-de-running-en-carretera-structure-25-Zh2tPh.png",
+            "descripcion": "Vista posterior"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "nombre": "Nike Revolution 7 Mujer",
+        "descripcion": "Cargamos el Revolution 7 con el tipo de amortiguación suave y soporte que podría cambiar tu mundo del running. Elegante como siempre, cómodo cuando la goma se encuentra con la carretera y con alto rendimiento para el ritmo deseado, es una evolución de un favorito de los fanáticos que ofrece una conducción suave y tersa.",
+        "precio": 210000,
+        "genero": "mujer",
+        "color1": "blanco",
+        "color2": "celeste",
+        "imagenes": [
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/659d5395-4394-4cdd-af10-d5de99511b8d/calzado-de-running-en-carretera-revolution-7-wP5p63.png",
+            "descripcion": "Vista frontal"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/f9301add-a2be-45a1-895b-549a51bb410f/calzado-de-running-en-carretera-revolution-7-wP5p63.png",
+            "descripcion": "Vista suela"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/d76b79fd-e11d-458d-8177-fa1746921e21/calzado-de-running-en-carretera-revolution-7-wP5p63.png",
+            "descripcion": "Vista lateral"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/53674c8e-c952-4d5b-8e4c-bf1868e90173/calzado-de-running-en-carretera-revolution-7-wP5p63.png",
+            "descripcion": "Vista posterior"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "nombre": "Nike Air Max Pulse Roam Hombre",
+        "descripcion": "El Air Max Pulse Roam se inspira en su elegante predecesor y lo mueve en una dirección más funcional. Esto significa durabilidad sin incomodidad y estilo sin esfuerzo. La amortiguación Air con carga estratégica, renovada a partir del suave Air Max 270, ofrece la comodidad en la que confías.",
+        "precio": 620000,
+        "genero": "hombre",
+        "color1": "blanco",
+        "color2": "celeste",
+        "imagenes": [
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/95d364a0-7c17-4821-9318-cd5d781e0708/calzado-air-max-pulse-roam-X285L2.png",
+            "descripcion": "Vista frontal"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/db2d283f-9582-4f3a-8d2f-80beea31d584/calzado-air-max-pulse-roam-X285L2.png",
+            "descripcion": "Vista suela"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/493f87d4-86f9-4fc5-8c63-ceff5b81a643/calzado-air-max-pulse-roam-X285L2.png",
+            "descripcion": "Vista lateral"
+          },
+          {
+            "url": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/24cc89c3-0d7d-4eb1-96a6-16dc48f56b5e/calzado-air-max-pulse-roam-X285L2.png",
+            "descripcion": "Vista posterior"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "nombre": "Adidas Campus 00S Hombre",
+        "descripcion": "Aunque hicieron su debut en las canchas de básquet, los tenis adidas Campus fueron rápidamente adoptados en casi todas partes. Con este par, llevamos la icónica silueta en otra dirección y le agregamos materiales, colores y proporciones modernos. Traen una parte superior de cuero prémium con un forro interno de algodón perchado suave, todo sobre una mediasuela en blanco hueso que conecta claramente con el legado Campus.",
+        "precio": 550000,
+        "genero": "hombre",
+        "color1": "blanco",
+        "color2": "negro",
+        "imagenes": [
+          {
+            "url": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/4659ee058ba34bd2a5d0af500104c17d_9366/Tenis_Campus_00s_Negro_HQ8708_01_standard.jpg",
+            "descripcion": "Vista frontal"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fde30f9f78b14fb8a9fbaf500104e57b_9366/Tenis_Campus_00s_Negro_HQ8708_03_standard.jpg",
+            "descripcion": "Vista suela"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/a93a651339a34d269115af500104f641_9366/Tenis_Campus_00s_Negro_HQ8708_04_standard.jpg",
+            "descripcion": "Vista lateral"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/506681c25cee4ece9a6aaf500104dbb2_9366/Tenis_Campus_00s_Negro_HQ8708_02_standard.jpg",
+            "descripcion": "Vista posterior"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "nombre": "Adidas Courtblock Mujer",
+        "descripcion": "Enfréntate a tu día a día con estos tenis adidas. La parte superior de cuero sintético suave está forrado para mayor comodidad y complementado con un protector de punta. La clásica suela tipo cupsole de caucho es resistente y flexible. La paleta de colores tenues combina a la perfección con cualquier outfit que lleves puesto.",
+        "precio": 400000,
+        "genero": "mujer",
+        "color1": "blanco",
+        "color2": "rosado",
+        "imagenes": [
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b7005558845f4a19a6657abe94f78d7c_9366/Tenis_Courtblock_Blanco_IF6462_01_standard.jpg",
+            "descripcion": "Vista frontal"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/e7d7d955a0ce4796932ddc4f4269ec59_9366/Tenis_Courtblock_Blanco_IF6462_03_standard.jpg",
+            "descripcion": "Vista suela"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/bc158464ecb54eb4a7f64bf034617a72_9366/Tenis_Courtblock_Blanco_IF6462_04_standard.jpg",
+            "descripcion": "Vista lateral"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/bc158464ecb54eb4a7f64bf034617a72_9366/Tenis_Courtblock_Blanco_IF6462_04_standard.jpg",
+            "descripcion": "Vista posterior"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "nombre": "Adidas Advantage Mujer",
+        "descripcion": "Añade un poco de estilo sutil a tus looks informales. El refuerzo de talón de estos tenis adidas inspirados en el tenis luce un acabado iridiscente que atraerá todas las miradas. La combinación de amortiguación Cloudfoam ultrasuave y una suela tipo cupsole estabilizadora te brinda comodidad en cada paso que das.",
+        "precio": 380000,
+        "genero": "mujer",
+        "color1": "blanco",
+        "color2": "rosado",
+        "imagenes": [
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/deade84ed25e494b9ddead1300c3ce74_9366/Tenis_Advantage_Blanco_GW4847_01_standard.jpg",
+            "descripcion": "Vista frontal"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ed7fdcdac96e4d15bebcad1300c3e453_9366/Tenis_Advantage_Blanco_GW4847_03_standard.jpg",
+            "descripcion": "Vista suela"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d53feafa43a44b31a1a3ad1300c3ebe3_9366/Tenis_Advantage_Blanco_GW4847_04_standard.jpg",
+            "descripcion": "Vista lateral"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/822913a968924a09bfd0ad1300c3dd44_9366/Tenis_Advantage_Blanco_GW4847_02_standard_hover.jpg",
+            "descripcion": "Vista posterior"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "nombre": "Adidas Duramo Negro Hombre",
+        "descripcion": "Comprométete a ser más rápido una carrera a la vez. El exterior de malla y el talón de neopreno suave les dan a estos tenis de running adidas un look técnico y un ajuste cómodo que sujeta tu pie. Cuando estás en posición de acelerar, la mediasuela liviana Lightmotion está preparada para responder.",
+        "precio": 250000,
+        "genero": "hombre",
+        "color1": "negro",
+        "color2": "blanco",
+        "imagenes": [
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/eb0796068ef34a7bb7ddacc30104d687_9366/Tenis_Duramo_SL_Negro_GV7124_01_standard.jpg",
+            "descripcion": "Vista frontal"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6e4c992d514149ada31dacc30104e9e9_9366/Tenis_Duramo_SL_Negro_GV7124_03_standard.jpg",
+            "descripcion": "Vista suela"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6465a2a6e2d847c59108acc30104f17b_9366/Tenis_Duramo_SL_Negro_GV7124_04_standard.jpg",
+            "descripcion": "Vista lateral"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9110b642898842428ca8acc30104e2e8_9366/Tenis_Duramo_SL_Negro_GV7124_02_standard_hover.jpg",
+            "descripcion": "Vista posterior"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "nombre": "Adidas Courtblock Hombre",
+        "descripcion": "Enfréntate a tu día a día con estos tenis adidas. La parte superior de cuero sintético suave está forrado para mayor comodidad y complementado con un protector de punta. La clásica suela tipo cupsole de caucho es resistente y flexible. La paleta de colores tenues combina a la perfección con cualquier outfit que lleves puesto.",
+        "precio": 400000,
+        "genero": "hombre",
+        "color1": "blanco",
+        "color2": "azul",
+        "imagenes": [
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c458e91f3d234a0fa91991006ccacb21_9366/Tenis_Courtblock_Blanco_IF4032_01_standard.jpg",
+            "descripcion": "Vista frontal"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/05b4bfd9c7144e91a443b544015047f9_9366/Tenis_Courtblock_Blanco_IF4032_03_standard.jpg",
+            "descripcion": "Vista suela"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6e4b0b39a33941b09aea7baa69ebe24e_9366/Tenis_Courtblock_Blanco_IF4032_04_standard.jpg",
+            "descripcion": "Vista lateral"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6e4b0b39a33941b09aea7baa69ebe24e_9366/Tenis_Courtblock_Blanco_IF4032_04_standard.jpg",
+            "descripcion": "Vista posterior"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "nombre": "Adidas Run Falcon 2.0 Mujer",
+        "descripcion": "Con estos tenis adidas en tus pies podrás correr en el parque y luego tomar un café con amigos con total comodidad. Su exterior de malla ofrece transpirabilidad que mantiene tus pies frescos de la mañana a la noche. La suela tipo cupsole de caucho brinda la estabilidad necesaria para enfrentarte a todo lo que te depare el día.",
+        "precio": 232000,
+        "genero": "mujer",
+        "color1": "blanco",
+        "color2": "rosado",
+        "imagenes": [
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/275ebdfece2d4b049f42ae830133c3bb_9366/Tenis_Run_Falcon_2.0_Blanco_GV9571_01_standard.jpg",
+            "descripcion": "Vista frontal"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9ff922ebc89d4f6eb26aae830134011c_9366/Tenis_Run_Falcon_2.0_Blanco_GV9571_03_standard.jpg",
+            "descripcion": "Vista suela"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/85dc72457cac49a7afcaae8301341787_9366/Tenis_Run_Falcon_2.0_Blanco_GV9571_04_standard.jpg",
+            "descripcion": "Vista lateral"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0dbcd90063314b869274ae830133edae_9366/Tenis_Run_Falcon_2.0_Blanco_GV9571_02_standard_hover.jpg",
+            "descripcion": "Vista posterior"
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "nombre": "Adidas Galaxy 6 Mujer",
+        "descripcion": "Con estos tenis adidas en tus pies podrás correr en el parque y luego tomar un café con amigos con total comodidad. Su exterior de malla ofrece transpirabilidad que mantiene tus pies frescos de la mañana a la noche. La suela tipo cupsole de caucho brinda la estabilidad necesaria para enfrentarte a todo lo que te depare el día.",
+        "precio": 280000,
+        "genero": "mujer",
+        "color1": "blanco",
+        "color2": "agua marina",
+        "imagenes": [
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2ca73f8cd659456b84707e2ce9d033e5_9366/Tenis_Galaxy_6_Gris_IE1989_HM1.jpg",
+            "descripcion": "Vista frontal"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/5bba369a62e1405c8f59f30da3b738b7_9366/Tenis_Galaxy_6_Gris_IE1989_HM4.jpg",
+            "descripcion": "Vista suela"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/1666e67fdcc148ac806655e9e2e7fd25_9366/Tenis_Galaxy_6_Gris_IE1989_HM5.jpg",
+            "descripcion": "Vista lateral"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/25f61998342d4efc9ba7412814fba307_9366/Tenis_Galaxy_6_Gris_IE1989_HM3_hover.jpg",
+            "descripcion": "Vista posterior"
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "nombre": "Adidas Response Runner Hombre",
+        "descripcion": "Con estos tenis adidas en tus pies podrás correr en el parque y luego tomar un café con amigos con total comodidad. Su exterior de malla ofrece transpirabilidad que mantiene tus pies frescos de la mañana a la noche. La suela tipo cupsole de caucho brinda la estabilidad necesaria para enfrentarte a todo lo que te depare el día.",
+        "precio": 230000,
+        "genero": "hombre",
+        "color1": "azul",
+        "color2": "blanco",
+        "imagenes": [
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/e388e9ecdb314c01beb59a246b89f515_9366/Tenis_Response_Runner_Azul_IG0737_01_standard.jpg",
+            "descripcion": "Vista frontal"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/274484ab013c4a76bd494fab26ded4be_9366/Tenis_Response_Runner_Azul_IG0737_03_standard.jpg",
+            "descripcion": "Vista suela"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/649aae692b2c428d9467496f64e07415_9366/Tenis_Response_Runner_Azul_IG0737_04_standard.jpg",
+            "descripcion": "Vista lateral"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6eff30b468bd4bd9b0bd9e7b3d7b4a9f_9366/Tenis_Response_Runner_Azul_IG0737_02_standard_hover.jpg",
+            "descripcion": "Vista posterior"
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "nombre": "Adidas SuperStar Hombre",
+        "descripcion": "Con estos tenis adidas en tus pies podrás correr en el parque y luego tomar un café con amigos con total comodidad. Su exterior de malla ofrece transpirabilidad que mantiene tus pies frescos de la mañana a la noche. La suela tipo cupsole de caucho brinda la estabilidad necesaria para enfrentarte a todo lo que te depare el día.",
+        "precio": 600000,
+        "genero": "hombre",
+        "color1": "blanco",
+        "color2": "negro",
+        "imagenes": [
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7ed0855435194229a525aad6009a0497_9366/Tenis_Superstar_Blanco_EG4958_01_standard.jpg",
+            "descripcion": "Vista frontal"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3708ab90979a4ba59535aad6009a2fa8_9366/Tenis_Superstar_Blanco_EG4958_03_standard.jpg",
+            "descripcion": "Vista suela"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8a358bcd5e3d453da815aad6009a249e_9366/Tenis_Superstar_Blanco_EG4958_02_standard_hover.jpg",
+            "descripcion": "Vista lateral"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7ed0855435194229a525aad6009a0497_9366/Tenis_Superstar_Blanco_EG4958_01_standard.jpg",
+            "descripcion": "Vista posterior"
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "nombre": "Adidas Ozelle CloudFoam Mujer",
+        "descripcion": "Estos tenis de running adidas retro se actualizan con una mezcla de materiales livianos y una suela de caucho robusto del momento. El interior también está a la moda, con amortiguación Cloudfoam que te envuelve en comodidad incluso en los momentos más intensos del día.",
+        "precio": 430000,
+        "genero": "mujer",
+        "color1": "negro",
+        "color2": "blanco",
+        "imagenes": [
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/151c1ffe3b4e43a68584652adbeff539_9366/Tenis_Ozelle_Cloudfoam_Negro_IG9796_01_standard.jpg",
+            "descripcion": "Vista frontal"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b019642fef7b4d1783593e072a690d11_9366/Tenis_Ozelle_Cloudfoam_Negro_IG9796_03_standard.jpg",
+            "descripcion": "Vista suela"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f27c069bf3f4436198923fcead78f6af_9366/Tenis_Ozelle_Cloudfoam_Negro_IG9796_02_standard_hover.jpg",
+            "descripcion": "Vista lateral"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0127558655284020a3d6f6fb6f5fe3c5_9366/Tenis_Ozelle_Cloudfoam_Negro_IG9796_04_standard.jpg",
+            "descripcion": "Vista posterior"
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "nombre": "Adidas EQ19 Run Mujer",
+        "descripcion": "Los tenis de running adidas: los favoritos de influenciadores y atletas de todo el mundo. Estos traen una mediasuela Cloudfoam para una amortiguación supersuave que te ayudará a moverte durante todo el día, sin importar si tu ritmo y estilo es deportivo o casual.",
+        "precio": 276000,
+        "genero": "mujer",
+        "color1": "rosado",
+        "color2": "fucsia",
+        "imagenes": [
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/4c261ee85dab444e999baec800fd68ba_9366/Tenis_EQ19_Run_Naranja_GY4729_01_standard.jpg",
+            "descripcion": "Vista frontal"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8b8b1a575ba143e9b3f7aec800fd8127_9366/Tenis_EQ19_Run_Naranja_GY4729_03_standard.jpg",
+            "descripcion": "Vista suela"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/39a15c2e6af841ac881faec800fd88dc_9366/Tenis_EQ19_Run_Naranja_GY4729_04_standard.jpg",
+            "descripcion": "Vista lateral"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/4bc26412acca42eca319aec800fd7a21_9366/Tenis_EQ19_Run_Naranja_GY4729_02_standard_hover.jpg",
+            "descripcion": "Vista posterior"
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "nombre": "Adidas Forum Bold Mujer",
+        "descripcion": "Eleva tu estilo con estos tenis adidas Forum Bold. Su diseño actualiza los adidas Forum originales de 1984 con una mediasuela con plataforma que te permite expresarte a tu manera. Un Trifolio extragrande se destaca en el costado y evoca las raíces deportivas del look.",
+        "precio": 599000,
+        "genero": "mujer",
+        "color1": "blanco",
+        "color2": "fucsia",
+        "imagenes": [
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/244cfb86b65142539b845cc0007e8cbc_9366/Tenis_Forum_Bold_Blanco_IE4762_01_standard.jpg",
+            "descripcion": "Vista frontal"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7bdba21d996a44c7aeb28f9bfab7a279_9366/Tenis_Forum_Bold_Blanco_IE4762_02_standard_hover.jpg",
+            "descripcion": "Vista suela"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8c74c4ff2a6048c890c37b2233c7ac47_9366/Tenis_Forum_Bold_Blanco_IE4762_03_standard.jpg",
+            "descripcion": "Vista lateral"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/244cfb86b65142539b845cc0007e8cbc_9366/Tenis_Forum_Bold_Blanco_IE4762_01_standard.jpg",
+            "descripcion": "Vista posterior"
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "nombre": "Adidas Adizero SL Mujer",
+        "descripcion": "Eleva tu estilo con estos tenis adidas Forum Bold. Su diseño actualiza los adidas Forum originales de 1984 con una mediasuela con plataforma que te permite expresarte a tu manera. Un Trifolio extragrande se destaca en el costado y evoca las raíces deportivas del look.",
+        "precio": 650000,
+        "genero": "mujer",
+        "color1": "blanco",
+        "color2": "fucsia",
+        "imagenes": [
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6dcac5ed8350420c8ecf0b69561f2c4e_9366/Tenis_Adizero_SL_Blanco_HQ7232_HM4.jpg",
+            "descripcion": "Vista frontal"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/dbb3269dfb4643f98945cfc7b52b34a8_9366/Tenis_Adizero_SL_Blanco_HQ7232_HM1.jpg",
+            "descripcion": "Vista suela"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8c74c4ff2a6048c890c37b2233c7ac47_9366/Tenis_Forum_Bold_Blanco_IE4762_03_standard.jpg",
+            "descripcion": "Vista lateral"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/094a5c6be6d64aacb4077264c32e8f9a_9366/Tenis_Adizero_SL_Blanco_HQ7232_HM3_hover.jpg",
+            "descripcion": "Vista posterior"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "nombre": "Adidas RapidMove Hombre",
+        "descripcion": "No entrenes con tus tenis de running. Los movimientos dinámicos y multidireccionales de los entrenamientos HIIT requieren unos tenis específicos. Como estos tenis livianos de adidas. La mediasuela de EVA está pensada para ofrecer comodidad y sujeción, y el Sistem Torsión asimétrico proporciona estabilidad y dinamismo para conseguir movimientos explosivos en todas las direcciones.",
+        "precio": 549000,
+        "genero": "hombre",
+        "color1": "grises",
+        "color2": "azules oscuros",
+        "imagenes": [
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/5b45265ec8b24b578638be82c6103a74_9366/Tenis_Rapidmove_Gris_HP3291_01_standard.jpg",
+            "descripcion": "Vista frontal"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2a9a8de676bb460ca6f497efae26dcfa_9366/Tenis_Rapidmove_Gris_HP3291_03_standard.jpg",
+            "descripcion": "Vista suela"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0c67edbb17644a88956850d82e5556ef_9366/Tenis_Rapidmove_Gris_HP3291_04_standard.jpg",
+            "descripcion": "Vista lateral"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6a47b533f5094087b5f3e0cd4cf4f470_9366/Tenis_Rapidmove_Gris_HP3291_02_standard_hover.jpg",
+            "descripcion": "Vista posterior"
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "nombre": "Adidas Trail Running Hombre",
+        "descripcion": "Agilidad, cardio, fuerza. Estos tenis de trail running adidas presentan una suela Traxion que proporciona una excelente tracción en todas las direcciones para que puedas dominar los senderos de montaña con total confianza. El exterior transpirable favorece el flujo de aire para mantenerte fresco desde el primer al último paso.",
+        "precio": 380000,
+        "genero": "hombre",
+        "color1": "negros",
+        "color2": "grises",
+        "imagenes": [
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f3059dd10fd541bfa16eae0b00fc9bf1_9366/Tenis_de_Trail_Running_Tracefinder_Negro_Q47239_01_standard.jpg",
+            "descripcion": "Vista frontal"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f5102f3a9e5542588126ae0b00fcb351_9366/Tenis_de_Trail_Running_Tracefinder_Negro_Q47239_03_standard.jpg",
+            "descripcion": "Vista suela"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/4ace01789bc74066acabae0b00fcab7d_9366/Tenis_de_Trail_Running_Tracefinder_Negro_Q47239_02_standard_hover.jpg",
+            "descripcion": "Vista lateral"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f1063b5d5fec49f58c23ae0b00fcbb0a_9366/Tenis_de_Trail_Running_Tracefinder_Negro_Q47239_04_standard.jpg",
+            "descripcion": "Vista posterior"
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "nombre": "Adidas Adizero Pro 3 Mujer",
+        "descripcion": "Los ADIZERO ADIOS PRO 3 son los tenis de running definitivos para carreras de larga distancia y para corredores veloces que buscan llevar su rendimiento al siguiente nivel y alcanzar nuevos récords La mediasuela se compone de 2 capas de espuma Lightstrike Pro resistente que brindan amortiguación. Con las varillas ENERGYRODS 2.0 optimizadas integradas en la mediasuela",
+        "precio": 1050000,
+        "genero": "mujer",
+        "color1": "fucsia",
+        "color2": "blanco",
+        "imagenes": [
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7e3be6839bd14ad986bdae9900ce5c36_9366/Tenis_Adizero_Adios_Pro_3_Morado_GY8411_01_standard.jpg",
+            "descripcion": "Vista frontal"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f967f1c299bf419683e8ae9900ce8265_9366/Tenis_Adizero_Adios_Pro_3_Morado_GY8411_03_standard.jpg",
+            "descripcion": "Vista suela"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/08ba0c9655aa41a6be70ae9900ce92c3_9366/Tenis_Adizero_Adios_Pro_3_Morado_GY8411_04_standard.jpg",
+            "descripcion": "Vista lateral"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fd0eb63544a04bf4b48cae9900ce759d_9366/Tenis_Adizero_Adios_Pro_3_Morado_GY8411_02_standard_hover.jpg",
+            "descripcion": "Vista posterior"
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "nombre": "Adidas Running 4DFWD",
+        "descripcion": "4DFWD 2 redefine el movimiento hacia adelante al combinar una innovadora mediasuela impresa en 3D con un nuevo exterior y una suela Continental para un mayor agarre. Con cada zancada la mediasuela de los 4DFWD te impulsa hacia adelante reduciendo las fuerzas de freno y transformando el impacto del pie contra el suelo en un impulso imparable. El resultado es una pisada suave con menos fricción con el asfalto. La suela de caucho Continental de gran agarre ofrece tracción en superficies secas y mojadas para mantenerte en movimiento en todo tipo de clima, y el exterior adidas PRIMEKNIT+ envuelve el pie con un nuevo ajuste que favorece el movimiento.",
+        "precio": 980000,
+        "genero": "mujer",
+        "color1": "fucsia",
+        "color2": "blanco",
+        "imagenes": [
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/bf16b80971094501a849aed7011ea4a0_9366/Tenis_de_Running_adidas_4DFWD_2_Negro_GX9266_01_standard.jpg",
+            "descripcion": "Vista frontal"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/cf8a33d186eb45d996daaed7011ebdd9_9366/Tenis_de_Running_adidas_4DFWD_2_Negro_GX9266_03_standard.jpg",
+            "descripcion": "Vista suela"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/5162f55b223949ad977caed7011ed6c3_9366/Tenis_de_Running_adidas_4DFWD_2_Negro_GX9266_010_hover_standard.jpg",
+            "descripcion": "Vista lateral"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/911967b667974ada9b7eaed7011eb555_9366/Tenis_de_Running_adidas_4DFWD_2_Negro_GX9266_02_standard.jpg",
+            "descripcion": "Vista posterior"
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "nombre": "Adidas Osade Mujer",
+        "descripcion": "Estilo propio. Extremadamente cómodos. Ponte estos cómodos tenis adidas y prepárate para conquistar las calles de la ciudad. Presentan una parte superior revestida de cuero que se adapta al movimiento natural del pie y una suela de caucho de gran agarre que proporciona una excelente tracción. Las clásicas 3 Rayas le ponen el toque final al look para un estilo versátil que nunca pasa de moda.",
+        "precio": 510000,
+        "genero": "mujer",
+        "color1": "rosado",
+        "color2": "rosado",
+        "imagenes": [
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/17fdfa2747004d2795fb1562454fd881_9366/Tenis_Osade_Rosa_IF3053_01_standard.jpg",
+            "descripcion": "Vista frontal"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/31416508e2374bf2b0286e3b00f9ede7_9366/Tenis_Osade_Rosa_IF3053_03_standard.jpg",
+            "descripcion": "Vista suela"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fa34e43c405c40fd961b467c6c7e0543_9366/Tenis_Osade_Rosa_IF3053_04_standard.jpg",
+            "descripcion": "Vista lateral"
+          },
+          {
+            "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9b57bc33ab9b45f2988810805aae1700_9366/Tenis_Osade_Rosa_IF3053_02_standard_hover.jpgs",
+            "descripcion": "Vista posterior"
+          }
+        ]
+      }
+
+
+    
+    ]
+  }
+  

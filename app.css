@@ -1,0 +1,315 @@
+
+.body {
+    margin: 0;
+    padding: 0;
+ 
+    
+  }
+  
+  .content {
+    margin-top: 56px; 
+    font-family: 'Advent Pro', sans-serif;
+    font-family: 'Asap Condensed', sans-serif;
+    font-family: 'Exo 2', sans-serif;
+    font-family: 'Jost', sans-serif;
+    background-color: rgb(255, 255, 255);
+    font-size: 30px;
+    
+  }
+  
+
+.custom-card {
+  transition: transform 0.3s ease;
+  border: none;
+  border-radius: 20px;
+  overflow: hidden;
+
+}
+
+.custom-card:hover {
+  transform: scale(1.05);
+}
+
+.card-img {
+  height: 450px;
+  object-fit: cover;
+}
+
+
+.carousel-img {
+  height: 600px;  
+  object-fit: cover;
+}
+
+/* Estilos para el contenedor principal */
+.auth-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: 'Exo 2', sans-serif;
+}
+
+/* Estilos para el formulario */
+.auth-inner {
+  width: 50%;
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 10px;
+}
+
+/* Estilos para la imagen */
+.auth-image {
+  width: 50%;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.auth-image img {
+  width: 50%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.user-type label {
+  margin-bottom: 20px;
+}
+
+
+/* Footer.css */
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px 0;
+  font-family:'Jost', sans-serif; ;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-info h3,
+.footer-social h3 {
+  margin-bottom: 10px;
+}
+
+.social-icons {
+  display: flex;
+}
+
+.social-icons a {
+  color: #fff;
+  font-size: 24px;
+  margin-right: 10px;
+}
+
+.social-icons a:hover {
+  color: #ffd700; 
+}
+
+.hover-zoom:hover {
+  transform: scale(1.1);
+}
+
+.img-thumbnail {
+  width: 80px; /* Puedes ajustar el tamaño según sea necesario */
+  height: 80px;
+  object-fit: cover;
+}
+
+/* Añade reglas de estilo para la imagen principal */
+.img-fluid {
+  max-width: 100%; /* Garantiza que la imagen principal no se salga del contenedor */
+  height: auto;
+}
+
+/* Añadir este CSS a tu archivo de estilos global o local */
+.hover-zoom-thumbnail {
+  transition: transform 0.2s;
+}
+
+.hover-zoom-thumbnail:hover {
+  transform: scale(1.1);
+}
+
+.miniaturas-container {
+  align-items: flex-start;
+}
+
+.imagen-principal-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px; /* Ajusta según sea necesario */
+}
+
+.nav {
+  font-family: 'Exo 2', sans-serif;
+  color: #f8f9fa;
+}
+
+
+.custom-button::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  background-image: linear-gradient(90deg, rgb(255, 30, 143), rgb(19, 227, 255), rgb(251, 255, 20), rgb(255, 15, 15));
+  background-size: 300%;
+  border-radius: 5px;
+  z-index: -1;
+  transition: all 0.4s ease;
+}
+
+.custom-button:hover::after {
+  background-position: 100%;
+  filter: blur(15px);
+}
+
+.custom-button::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  background-image: linear-gradient(90deg, rgb(255, 30, 143), rgb(19, 227, 255), rgb(251, 255, 20), rgb(255, 15, 15));
+  background-size: 300%;
+  border-radius: 5px;
+  z-index: -1;
+}
+
+.custom-button:hover::before {
+  background-position: 100%;
+}
+
+
+
+.carrito-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; /* Centra horizontalmente */
+  margin-bottom: 10px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 10px;
+}
+
+.carrito-imagen {
+  width: 200px; /* Ajusta el tamaño de la imagen según tu preferencia */
+  height: auto;
+  margin-right: 20px;
+}
+
+.carrito-info {
+  flex-grow: 1;
+}
+
+.carrito-nombre {
+  font-size: 20px;
+}
+
+.carrito-cantidad,
+.carrito-precio {
+  font-size: 20px;
+}
+
+.carrito-total {
+  margin-top: 30px;
+  text-align: right;
+  font-size: 30px;
+  margin-right: 50px;
+  font-weight: bolder;
+  color: rgb(38, 129, 10);
+}
+
+/* ... Otros estilos ... */
+
+.custom-navbar {
+  background-color: #dbd3b4;
+  color: #ffffff;
+  
+}
+
+
+.eliminar-btn {
+  font-size: 20px;
+  border: 3px solid;
+  
+}
+
+.eliminar-btn:hover{
+  background-color: rgb(189, 183, 183);
+  box-shadow: 0 0 20px var(--color);
+  border-color: var(rgb(67, 94, 112));
+}
+
+.btnMe {
+  font-size: 20px;
+}
+
+.btn-outline-secondary {
+  font-size: 50px;
+}
+
+.carrito-nombre{
+  font-size: 35px;
+  color: #000;
+  font-weight: bold;
+}
+
+.carrito-cantidad{
+  font-size: 25px;
+  font-weight:bolder;
+  color: rgb(14, 10, 10);
+}
+
+.carrito-precio {
+  font-size: 22px;
+  font-weight:500;
+  color: rgb(212, 16, 16);
+  font-weight: bold;
+
+}
+
+.inicio {
+  text-align: center;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+.nombrep {
+  font-size: 20px;
+}
+
+.titulodestacados {
+  font-weight: 900;
+  font-size: larger;
+  color: #241010;
+}
+
+.color {
+  color: rgb(211, 187, 235);
+}
+
+.carrito-unidad {
+  font-size: 18px;
+  font-weight: bold;
+  color: rgb(126, 114, 114);
+
+}
+
+.probando-colores {
+  color: rgb(81, 12, 150);
+}
